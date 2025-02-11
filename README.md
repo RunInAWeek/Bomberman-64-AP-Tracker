@@ -1,5 +1,2 @@
 Poptracker Pack for Bomberman 64 AP
-
-
-
-![Screenshot (86)](https://github.com/user-attachments/assets/7a254a64-58c0-4d3e-8149-be452572e3a6)
+![Screenshot (89)](https://github.com/user-attachments/assets/90261659-0dba-4fff-a2d7-7cbbef1f45a6)
